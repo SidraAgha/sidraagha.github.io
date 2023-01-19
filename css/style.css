@@ -20,8 +20,8 @@ body {
 
 /* common styles */
 img {
-	padding-top: 2rem;
-	width: 100%;
+	width: 90%;
+	border-radius: 50%;
 	
 }
 
@@ -254,3 +254,9 @@ hr {
 		margin: 0 auto;
 	}
 }
+
+/*a{
+	background: url(img/icons8-resume-64.png)no-repeat left center;
+	padding-left: 32px;
+	display: block;
+}*/
